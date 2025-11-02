@@ -66,9 +66,8 @@ You must have **[Node.js](https://nodejs.org/)** installed on your computer (whi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/learn-react.git](https://github.com/YOUR-USERNAME/learn-react.git)
+    git clone https://github.com/ayoubabbadi/learn-react.git
     ```
-    *(Replace `YOUR-USERNAME` with your GitHub username)*
 
 2.  **Navigate to the project directory:**
     ```bash
